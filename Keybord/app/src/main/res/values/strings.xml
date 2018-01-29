@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Keybord</string>
+
+    <string-array name="Nama_kota">
+        <item> Aceh </item>
+        <item>Bandung</item>
+        <item>Cirebon</item>
+        <item>Bali</item>
+        <item>Jakarta</item>
+        <item>Bogor</item>
+        <item>Tanggerang</item>
+        <item>Yogyakarta</item>
+        <item>Surabaya</item>
+        <item>Palembang</item>
+        <item>Medan</item>
+        <item>Papua</item>
+        <item>Bekasi</item>
+        <item>Padang</item>
+        <item>Garut</item>
+        <item>Tasikmalaya</item>
+        <item>Sumedang</item>
+        <item>Cianjur</item>
+    </string-array>
+
+
+
+</resources>
